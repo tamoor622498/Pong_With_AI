@@ -1,0 +1,9 @@
+/*
+Getting the artiffcical ideot working.
+
+control
+
+globle variables
+
+scaliing
+*/
