@@ -1,1 +1,1 @@
-# Pong_With_AI
+This is a version of Pong using Processing for java. The game was created for a programming project as part of the Ap Computer Science Principles exam. I programmed this entier program and used no starter code. The game has a very basic AI as someone to play against. The game continues forever, but there is a a score board that and the AI can't always hit the ball. I my add to the project in the future.
